@@ -1,0 +1,6 @@
+{
+  "name": "jinsil-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI grading proxy (Gemini 2.5 Pro) for 진실의 돋보기 correction-article activity"
+}
