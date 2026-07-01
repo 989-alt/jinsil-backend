@@ -4,3 +4,6 @@ node_modules/
 .env*.local
 
 .vercel
+
+# any env file (repo is public — defense in depth)
+.env*
